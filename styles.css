@@ -1,0 +1,43 @@
+#nav-header{
+	background-color:#666666;
+	border-radius:0;
+	position:relative;
+}
+#nav-header h1{
+	text-transform:capitalize;
+	font-family:arial, helveltica;
+	text-align:left;
+	font-weight:bold;
+	color:#000;
+	position:absolute;
+	top:-16px;
+}
+#nav-header h1 span{
+	text-transform:uppercase;
+	font-family:arial, helveltica;
+}
+#nav-list{
+	background-color:#fff;
+	color:#000;
+	border:1px solid #000;
+}
+#nav-list li{
+	border:1px solid #000;
+}
+#nav-list a:hover{
+	background-color:#666;
+	color:#007;
+}
+div h2, div h3{
+	text-transform:capitalize;
+	font-weight:600;
+	font-family:arial, helveltica;
+}
+#menus{
+	border:1px solid #000000;
+	margin:0px;
+	margin-bottom:15px;
+	background-color:#666666;
+	position:relative;
+	padding:15px;
+}
